@@ -1,0 +1,24 @@
+{
+  "name": "BolaQu",
+  "short_name": "BolaQu",
+  "description": "Situs Sepak Bola",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#bdc3c7",
+  "theme_color": "#ecf0f1",
+  "gcm_sender_id": "950526881062",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
+
